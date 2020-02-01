@@ -206,7 +206,7 @@ class _MyAlertBoxState extends State<MyAlertBox> {
                     'Simple Diaglog',
                     style: TextStyle(color: Colors.white, fontSize: 15.0),
                   ),
-                  color: Colors.pink,
+                  color: Colors.green,
                   onPressed: () {
                     showSimpleDialog(context);
                   },
